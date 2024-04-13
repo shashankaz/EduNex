@@ -1,0 +1,25 @@
+#container-faq {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#container-faq h1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+  #container-faq h1 {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-faq h1 {
+    font-size: 30px;
+  }
+}

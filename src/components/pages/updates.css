@@ -1,0 +1,110 @@
+#container-updates {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#container-updates h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+#container-updates #main-container {
+  padding: 70px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+#container-updates #card {
+  width: 500px;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+#container-updates #card h1 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  text-align: center;
+  padding: 0 10px;
+}
+
+#container-updates #card h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+}
+
+#container-updates #card p {
+  text-align: center;
+  font-size: 15px;
+  padding: 0 10px;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  #container-updates h1 {
+    font-size: 35px;
+  }
+
+  #container-updates #main-container {
+    padding: 50px 0;
+    gap: 25px;
+  }
+
+  #container-updates #card {
+    width: 400px;
+    height: 150px;
+  }
+
+  #container-updates #card h1 {
+    font-size: 22px;
+    margin-bottom: 4px;
+  }
+
+  #container-updates #card h3 {
+    font-size: 18px;
+  }
+
+  #container-updates #card p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-updates h1 {
+    font-size: 30px;
+  }
+
+  #container-updates #main-container {
+    padding: 30px 0;
+    gap: 20px;
+  }
+
+  #container-updates #card {
+    width: 300px;
+    height: 140px;
+  }
+
+  #container-updates #card h1 {
+    font-size: 19px;
+    margin-bottom: 3px;
+  }
+
+  #container-updates #card h3 {
+    font-size: 16px;
+  }
+
+  #container-updates #card p {
+    font-size: 13px;
+  }
+}

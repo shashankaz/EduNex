@@ -1,0 +1,142 @@
+#container-footer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+  padding: 20px 0;
+  margin: 20px 0;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#container-footer #logo h1 {
+  font-size: 30px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#container-footer #logo a {
+  color: #000;
+  text-decoration: none;
+}
+
+#container-footer #logo h1 span {
+  color: #ff583a;
+}
+
+#container-footer #links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+#container-footer #box {
+  width: 170px;
+}
+
+#container-footer ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#container-footer ul a {
+  text-decoration: none;
+  color: #000;
+}
+
+#container-footer ul #head {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+#container-footer ul li a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+}
+
+#container-footer ul #head:hover {
+  cursor: default;
+  text-decoration: none;
+}
+
+#copy p {
+  font-size: 15px;
+  line-height: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  #container-footer {
+    padding: 15px 0;
+    margin: 15px 0;
+    gap: 40px;
+  }
+
+  #container-footer #logo h1 {
+    font-size: 27px;
+  }
+
+  #container-footer #links {
+    gap: 40px;
+  }
+
+  #container-footer #box {
+    width: 160px;
+  }
+
+  #container-footer ul {
+    font-size: 16px;
+    gap: 9px;
+  }
+
+  #container-footer ul #head {
+    font-size: 18px;
+    padding-bottom: 9px;
+  }
+
+  #copy p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-footer {
+    padding: 10px 0;
+    margin: 10px 0;
+    gap: 30px;
+  }
+
+  #container-footer #logo h1 {
+    font-size: 24px;
+  }
+
+  #container-footer #links {
+    gap: 30px;
+  }
+
+  #container-footer #box {
+    width: 150px;
+  }
+
+  #container-footer ul {
+    font-size: 14px;
+    gap: 8px;
+  }
+
+  #container-footer ul #head {
+    font-size: 16px;
+    padding-bottom: 8px;
+  }
+
+  #copy p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+}

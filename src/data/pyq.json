@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "title": "Programming Fundamentals - PYQ",
+    "slug": "programming-fundamentals-pyq",
+    "image": {
+      "src": "/cs_pyq.jpg",
+      "alt": "Computer Science PYQ"
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "title": "Algebra - Previous Year Papers",
+    "slug": "algebra-previous-year-papers",
+    "image": {
+      "src": "/math_pyq.jpg",
+      "alt": "Mathematics PYQ"
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "title": "Mechanics - PYQ Collection",
+    "slug": "mechanics-pyq-collection",
+    "image": {
+      "src": "/physics_pyq.jpg",
+      "alt": "Physics PYQ"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "title": "Genetics and Evolution - PYQs",
+    "slug": "genetics-and-evolution-pyqs",
+    "image": {
+      "src": "/bio_pyq.jpg",
+      "alt": "Biology PYQ"
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "title": "Organic Chemistry - PYQs",
+    "slug": "organic-chemistry-pyqs",
+    "image": {
+      "src": "/chem_pyq.jpg",
+      "alt": "Chemistry PYQ"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "History",
+    "title": "Modern History - Previous Year Papers",
+    "slug": "modern-history-previous-year-papers",
+    "image": {
+      "src": "/history_pyq.jpg",
+      "alt": "History PYQ"
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Geography",
+    "title": "Physical Geography - PYQ Collection",
+    "slug": "physical-geography-pyq-collection",
+    "image": {
+      "src": "/geo_pyq.jpg",
+      "alt": "Geography PYQ"
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Economics",
+    "title": "Macroeconomics - PYQs",
+    "slug": "macroeconomics-pyqs",
+    "image": {
+      "src": "/eco_pyq.jpg",
+      "alt": "Economics PYQ"
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Literature",
+    "title": "English Literature - Previous Year Papers",
+    "slug": "english-literature-previous-year-papers",
+    "image": {
+      "src": "/lit_pyq.jpg",
+      "alt": "Literature PYQ"
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Art",
+    "title": "Art History - PYQ Collection",
+    "slug": "art-history-pyq-collection",
+    "image": {
+      "src": "/art_pyq.jpg",
+      "alt": "Art PYQ"
+    }
+  }
+]

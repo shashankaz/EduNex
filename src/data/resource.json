@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "resource_type": "Reference Book",
+    "title": "Introduction to Algorithms",
+    "slug": "introduction-to-algorithms",
+    "image": {
+      "src": "/algorithms_book.jpg",
+      "alt": "Introduction to Algorithms Book Cover"
+    }
+  },
+  {
+    "id": 2,
+    "resource_type": "Tutorial",
+    "title": "Python Programming Tutorial",
+    "slug": "python-programming-tutorial",
+    "image": {
+      "src": "/python_tutorial.jpg",
+      "alt": "Python Programming Tutorial"
+    }
+  },
+  {
+    "id": 3,
+    "resource_type": "Online Course",
+    "title": "Machine Learning Basics",
+    "slug": "machine-learning-basics",
+    "image": {
+      "src": "/machine_learning_course.jpg",
+      "alt": "Machine Learning Basics Online Course"
+    }
+  },
+  {
+    "id": 4,
+    "resource_type": "Study Guide",
+    "title": "GRE Exam Study Guide",
+    "slug": "gre-exam-study-guide",
+    "image": {
+      "src": "/gre_study_guide.jpg",
+      "alt": "GRE Exam Study Guide"
+    }
+  },
+  {
+    "id": 5,
+    "resource_type": "Practice Test",
+    "title": "SAT Math Practice Test",
+    "slug": "sat-math-practice-test",
+    "image": {
+      "src": "/sat_math_practice.jpg",
+      "alt": "SAT Math Practice Test"
+    }
+  },
+  {
+    "id": 6,
+    "resource_type": "Video Lecture",
+    "title": "Art History Video Lecture Series",
+    "slug": "art-history-video-lecture-series",
+    "image": {
+      "src": "/art_history_lecture.jpg",
+      "alt": "Art History Video Lecture"
+    }
+  },
+  {
+    "id": 7,
+    "resource_type": "Study Group",
+    "title": "Physics Study Group Forum",
+    "slug": "physics-study-group-forum",
+    "image": {
+      "src": "/physics_study_group.jpg",
+      "alt": "Physics Study Group Forum"
+    }
+  },
+  {
+    "id": 8,
+    "resource_type": "Educational App",
+    "title": "Language Learning App",
+    "slug": "language-learning-app",
+    "image": {
+      "src": "/language_learning_app.jpg",
+      "alt": "Language Learning App"
+    }
+  },
+  {
+    "id": 9,
+    "resource_type": "Online Workshop",
+    "title": "Web Development Bootcamp",
+    "slug": "web-development-bootcamp",
+    "image": {
+      "src": "/web_dev_bootcamp.jpg",
+      "alt": "Web Development Bootcamp Online Workshop"
+    }
+  },
+  {
+    "id": 10,
+    "resource_type": "Podcast Series",
+    "title": "Business Insights Podcast",
+    "slug": "business-insights-podcast",
+    "image": {
+      "src": "/business_insights_podcast.jpg",
+      "alt": "Business Insights Podcast Series"
+    }
+  }
+]

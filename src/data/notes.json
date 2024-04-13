@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "title": "Introduction to Data Structures",
+    "slug": "introduction-to-data-structures",
+    "image": {
+      "src": "/intro_to_ds.jpg",
+      "alt": "Illustration of data structures concept"
+    }
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "title": "Calculus Basics",
+    "slug": "calculus-basics",
+    "image": {
+      "src": "/calculus_basics.jpg",
+      "alt": "Calculus equations and graphs"
+    }
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "title": "Newton's Laws of Motion",
+    "slug": "newtons-laws-of-motion",
+    "image": {
+      "src": "/newtons_laws.jpg",
+      "alt": "Diagram depicting Newton's laws"
+    }
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "title": "Cell Biology Essentials",
+    "slug": "cell-biology-essentials",
+    "image": {
+      "src": "/cell_biology.jpg",
+      "alt": "Microscopic view of cells"
+    }
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "title": "Chemical Reactions Overview",
+    "slug": "chemical-reactions-overview",
+    "image": {
+      "src": "/chemical_reactions.jpg",
+      "alt": "Chemical reaction illustrations"
+    }
+  },
+  {
+    "id": 6,
+    "subject": "History",
+    "title": "World History Timeline",
+    "slug": "world-history-timeline",
+    "image": {
+      "src": "/world_history.jpg",
+      "alt": "Timeline of historical events"
+    }
+  },
+  {
+    "id": 7,
+    "subject": "Geography",
+    "title": "Physical Geography Basics",
+    "slug": "physical-geography-basics",
+    "image": {
+      "src": "/physical_geography.jpg",
+      "alt": "Map showing geographical features"
+    }
+  },
+  {
+    "id": 8,
+    "subject": "Economics",
+    "title": "Introduction to Microeconomics",
+    "slug": "introduction-to-microeconomics",
+    "image": {
+      "src": "/microeconomics.jpg",
+      "alt": "Economic graphs and charts"
+    }
+  },
+  {
+    "id": 9,
+    "subject": "Literature",
+    "title": "Shakespearean Sonnets Collection",
+    "slug": "shakespearean-sonnets-collection",
+    "image": {
+      "src": "/shakespeare_sonnets.jpg",
+      "alt": "Book cover of Shakespearean sonnets"
+    }
+  },
+  {
+    "id": 10,
+    "subject": "Art",
+    "title": "Art History Masterpieces",
+    "slug": "art-history-masterpieces",
+    "image": {
+      "src": "/art_history.jpg",
+      "alt": "Famous art pieces from history"
+    }
+  }
+]

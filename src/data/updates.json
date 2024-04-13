@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "title": "Advanced Algorithms",
+    "description": "Explore advanced algorithms and data structures for competitive exams."
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "title": "Statistics",
+    "description": "Study statistical methods and data analysis for exam preparation."
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "title": "Quantum Mechanics",
+    "description": "Dive into the fascinating world of quantum physics for exam success."
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "title": "Genomics",
+    "description": "Discover genomics and DNA sequencing concepts for exam readiness."
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "title": "Organic Synthesis",
+    "description": "Learn organic compound synthesis and reactions for exam preparation."
+  }
+]

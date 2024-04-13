@@ -1,0 +1,132 @@
+#container-notes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#container-notes a {
+  text-decoration: none;
+  color: #000;
+}
+
+#container-notes h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+
+#container-notes input {
+  width: 500px;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+#container-notes #main-container {
+  padding: 70px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+#container-notes #card {
+  width: 300px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+#container-notes #card img {
+  height: 200px;
+  width: 100%;
+}
+
+#container-notes #card h1 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  padding: 0 10px;
+}
+
+#container-notes #card h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  #container-notes h1 {
+    font-size: 35px;
+  }
+
+  #container-notes input {
+    width: 370px;
+    padding: 8px 16px;
+    font-size: 18px;
+  }
+
+  #container-notes #main-container {
+    padding: 50px 0;
+    gap: 25px;
+  }
+
+  #container-notes #card {
+    width: 280px;
+    height: 330px;
+  }
+
+  #container-notes #card img {
+    height: 180px;
+    width: 100%;
+  }
+
+  #container-notes #card h1 {
+    font-size: 22px;
+    margin-bottom: 4px;
+  }
+
+  #container-notes #card h3 {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #container-notes h1 {
+    font-size: 30px;
+  }
+
+  #container-notes input {
+    width: 300px;
+    padding: 7px 14px;
+    font-size: 16px;
+  }
+
+  #container-notes #main-container {
+    padding: 30px 0;
+    gap: 20px;
+  }
+
+  #container-notes #card {
+    width: 250px;
+    height: 300px;
+  }
+
+  #container-notes #card img {
+    height: 150px;
+    width: 100%;
+  }
+
+  #container-notes #card h1 {
+    font-size: 19px;
+    margin-bottom: 3px;
+  }
+
+  #container-notes #card h3 {
+    font-size: 16px;
+  }
+}
