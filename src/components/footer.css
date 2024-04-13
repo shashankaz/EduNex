@@ -27,11 +27,11 @@
 #container-footer #links {
   display: flex;
   flex-wrap: wrap;
-  gap: 50px;
+  gap: 30px;
 }
 
 #container-footer #box {
-  width: 170px;
+  width: 200px;
 }
 
 #container-footer ul {
@@ -47,6 +47,8 @@
 #container-footer ul a {
   text-decoration: none;
   color: #000;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #container-footer ul #head {
@@ -83,11 +85,7 @@
   }
 
   #container-footer #links {
-    gap: 40px;
-  }
-
-  #container-footer #box {
-    width: 160px;
+    gap: 20px;
   }
 
   #container-footer ul {
@@ -118,11 +116,7 @@
   }
 
   #container-footer #links {
-    gap: 30px;
-  }
-
-  #container-footer #box {
-    width: 150px;
+    gap: 10px;
   }
 
   #container-footer ul {

@@ -27,6 +27,7 @@
   align-items: center;
   border: 1px solid #000;
   border-radius: 10px;
+  background-color: #fff;
 }
 
 #container-updates #card h1 {

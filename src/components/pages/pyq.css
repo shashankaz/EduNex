@@ -43,6 +43,8 @@
 #container-pyq #card img {
   height: 200px;
   width: 100%;
+  background-color: #fff;
+  border-radius: 10px 10px 0 0;
 }
 
 #container-pyq #card h1 {
@@ -66,7 +68,7 @@
   }
 
   #container-pyq input {
-    width: 370px;
+    width: 390px;
     padding: 8px 16px;
     font-size: 18px;
   }
@@ -102,7 +104,7 @@
   }
 
   #container-pyq input {
-    width: 300px;
+    width: 280px;
     padding: 7px 14px;
     font-size: 16px;
   }
