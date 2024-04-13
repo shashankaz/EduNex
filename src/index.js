@@ -17,6 +17,7 @@ import Members from "./components/pages/Members";
 import Info from "./components/pages/Info";
 import FAQ from "./components/pages/FAQ";
 import Feedback from "./components/pages/Feedback";
+import { Analytics } from "@vercel/analytics/react";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -38,6 +39,7 @@ root.render(
       </Routes>
       <App />
       <Footer />
+      <Analytics />
     </BrowserRouter>
   </React.StrictMode>
 );
