@@ -5,7 +5,7 @@
     "title": "Introduction to Data Structures",
     "slug": "introduction-to-data-structures",
     "image": {
-      "src": "/intro_to_ds.jpg",
+      "src": "/notes/intro_to_ds.jpg",
       "alt": "Illustration of data structures concept"
     }
   },
@@ -15,7 +15,7 @@
     "title": "Calculus Basics",
     "slug": "calculus-basics",
     "image": {
-      "src": "/calculus_basics.jpg",
+      "src": "/notes/calculus_basics.jpg",
       "alt": "Calculus equations and graphs"
     }
   },
@@ -25,7 +25,7 @@
     "title": "Newton's Laws of Motion",
     "slug": "newtons-laws-of-motion",
     "image": {
-      "src": "/newtons_laws.jpg",
+      "src": "/notes/newtons_laws.jpg",
       "alt": "Diagram depicting Newton's laws"
     }
   },
@@ -35,7 +35,7 @@
     "title": "Cell Biology Essentials",
     "slug": "cell-biology-essentials",
     "image": {
-      "src": "/cell_biology.jpg",
+      "src": "/notes/cell_biology.jpg",
       "alt": "Microscopic view of cells"
     }
   },
@@ -45,7 +45,7 @@
     "title": "Chemical Reactions Overview",
     "slug": "chemical-reactions-overview",
     "image": {
-      "src": "/chemical_reactions.jpg",
+      "src": "/notes/chemical_reactions.jpg",
       "alt": "Chemical reaction illustrations"
     }
   },
@@ -55,7 +55,7 @@
     "title": "World History Timeline",
     "slug": "world-history-timeline",
     "image": {
-      "src": "/world_history.jpg",
+      "src": "/notes/world_history.jpg",
       "alt": "Timeline of historical events"
     }
   },
@@ -65,7 +65,7 @@
     "title": "Physical Geography Basics",
     "slug": "physical-geography-basics",
     "image": {
-      "src": "/physical_geography.jpg",
+      "src": "/notes/physical_geography.jpg",
       "alt": "Map showing geographical features"
     }
   },
@@ -75,7 +75,7 @@
     "title": "Introduction to Microeconomics",
     "slug": "introduction-to-microeconomics",
     "image": {
-      "src": "/microeconomics.jpg",
+      "src": "/notes/microeconomics.jpg",
       "alt": "Economic graphs and charts"
     }
   },
@@ -85,7 +85,7 @@
     "title": "Shakespearean Sonnets Collection",
     "slug": "shakespearean-sonnets-collection",
     "image": {
-      "src": "/shakespeare_sonnets.jpg",
+      "src": "/notes/shakespeare_sonnets.jpg",
       "alt": "Book cover of Shakespearean sonnets"
     }
   },
@@ -95,7 +95,7 @@
     "title": "Art History Masterpieces",
     "slug": "art-history-masterpieces",
     "image": {
-      "src": "/art_history.jpg",
+      "src": "/notes/art_history.jpg",
       "alt": "Famous art pieces from history"
     }
   }

@@ -5,7 +5,7 @@
     "title": "Introduction to Algorithms",
     "slug": "introduction-to-algorithms",
     "image": {
-      "src": "/algorithms_book.jpg",
+      "src": "/resource/algorithms_book.jpg",
       "alt": "Introduction to Algorithms Book Cover"
     }
   },
@@ -15,7 +15,7 @@
     "title": "Python Programming Tutorial",
     "slug": "python-programming-tutorial",
     "image": {
-      "src": "/python_tutorial.jpg",
+      "src": "/resource/python_tutorial.jpg",
       "alt": "Python Programming Tutorial"
     }
   },
@@ -25,7 +25,7 @@
     "title": "Machine Learning Basics",
     "slug": "machine-learning-basics",
     "image": {
-      "src": "/machine_learning_course.jpg",
+      "src": "/resource/machine_learning_course.jpg",
       "alt": "Machine Learning Basics Online Course"
     }
   },
@@ -35,7 +35,7 @@
     "title": "GRE Exam Study Guide",
     "slug": "gre-exam-study-guide",
     "image": {
-      "src": "/gre_study_guide.jpg",
+      "src": "/resource/gre_study_guide.jpg",
       "alt": "GRE Exam Study Guide"
     }
   },
@@ -45,7 +45,7 @@
     "title": "SAT Math Practice Test",
     "slug": "sat-math-practice-test",
     "image": {
-      "src": "/sat_math_practice.jpg",
+      "src": "/resource/sat_math_practice.jpg",
       "alt": "SAT Math Practice Test"
     }
   },
@@ -55,7 +55,7 @@
     "title": "Art History Video Lecture Series",
     "slug": "art-history-video-lecture-series",
     "image": {
-      "src": "/art_history_lecture.jpg",
+      "src": "/resource/art_history_lecture.jpg",
       "alt": "Art History Video Lecture"
     }
   },
@@ -65,7 +65,7 @@
     "title": "Physics Study Group Forum",
     "slug": "physics-study-group-forum",
     "image": {
-      "src": "/physics_study_group.jpg",
+      "src": "/resource/physics_study_group.jpg",
       "alt": "Physics Study Group Forum"
     }
   },
@@ -75,7 +75,7 @@
     "title": "Language Learning App",
     "slug": "language-learning-app",
     "image": {
-      "src": "/language_learning_app.jpg",
+      "src": "/resource/language_learning_app.jpg",
       "alt": "Language Learning App"
     }
   },
@@ -85,7 +85,7 @@
     "title": "Web Development Bootcamp",
     "slug": "web-development-bootcamp",
     "image": {
-      "src": "/web_dev_bootcamp.jpg",
+      "src": "/resource/web_dev_bootcamp.jpg",
       "alt": "Web Development Bootcamp Online Workshop"
     }
   },
@@ -95,7 +95,7 @@
     "title": "Business Insights Podcast",
     "slug": "business-insights-podcast",
     "image": {
-      "src": "/business_insights_podcast.jpg",
+      "src": "/resource/business_insights_podcast.jpg",
       "alt": "Business Insights Podcast Series"
     }
   }

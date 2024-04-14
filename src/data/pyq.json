@@ -5,7 +5,7 @@
     "title": "Programming Fundamentals - PYQ",
     "slug": "programming-fundamentals-pyq",
     "image": {
-      "src": "/cs_pyq.jpg",
+      "src": "/pyq/cs_pyq.jpg",
       "alt": "Computer Science PYQ"
     }
   },
@@ -15,7 +15,7 @@
     "title": "Algebra - Previous Year Papers",
     "slug": "algebra-previous-year-papers",
     "image": {
-      "src": "/math_pyq.jpg",
+      "src": "/pyq/math_pyq.jpg",
       "alt": "Mathematics PYQ"
     }
   },
@@ -25,7 +25,7 @@
     "title": "Mechanics - PYQ Collection",
     "slug": "mechanics-pyq-collection",
     "image": {
-      "src": "/physics_pyq.jpg",
+      "src": "/pyq/physics_pyq.jpg",
       "alt": "Physics PYQ"
     }
   },
@@ -35,7 +35,7 @@
     "title": "Genetics and Evolution - PYQs",
     "slug": "genetics-and-evolution-pyqs",
     "image": {
-      "src": "/bio_pyq.jpg",
+      "src": "/pyq/bio_pyq.jpg",
       "alt": "Biology PYQ"
     }
   },
@@ -45,7 +45,7 @@
     "title": "Organic Chemistry - PYQs",
     "slug": "organic-chemistry-pyqs",
     "image": {
-      "src": "/chem_pyq.jpg",
+      "src": "/pyq/chem_pyq.jpg",
       "alt": "Chemistry PYQ"
     }
   },
@@ -55,7 +55,7 @@
     "title": "Modern History - Previous Year Papers",
     "slug": "modern-history-previous-year-papers",
     "image": {
-      "src": "/history_pyq.jpg",
+      "src": "/pyq/history_pyq.jpg",
       "alt": "History PYQ"
     }
   },
@@ -65,7 +65,7 @@
     "title": "Physical Geography - PYQ Collection",
     "slug": "physical-geography-pyq-collection",
     "image": {
-      "src": "/geo_pyq.jpg",
+      "src": "/pyq/geo_pyq.jpg",
       "alt": "Geography PYQ"
     }
   },
@@ -75,7 +75,7 @@
     "title": "Macroeconomics - PYQs",
     "slug": "macroeconomics-pyqs",
     "image": {
-      "src": "/eco_pyq.jpg",
+      "src": "/pyq/eco_pyq.jpg",
       "alt": "Economics PYQ"
     }
   },
@@ -85,7 +85,7 @@
     "title": "English Literature - Previous Year Papers",
     "slug": "english-literature-previous-year-papers",
     "image": {
-      "src": "/lit_pyq.jpg",
+      "src": "/pyq/lit_pyq.jpg",
       "alt": "Literature PYQ"
     }
   },
@@ -95,7 +95,7 @@
     "title": "Art History - PYQ Collection",
     "slug": "art-history-pyq-collection",
     "image": {
-      "src": "/art_pyq.jpg",
+      "src": "/pyq/art_pyq.jpg",
       "alt": "Art PYQ"
     }
   }
